@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="tests.cud.CUDUserTest" time="5.572" tests="7" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="tests.cud.CUDUserTest" time="4.847" tests="7" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="RU"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17.0.2\bin"/>
-    <property name="sun.java.command" value="C:\Users\chubz\AppData\Local\Temp\surefire8480262441456765124\surefirebooter-20220804215653858_3.jar C:\Users\chubz\AppData\Local\Temp\surefire8480262441456765124 2022-08-04T21-56-53_564-jvmRun1 surefire-20220804215653858_1tmp surefire_0-20220804215653858_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\chubz\AppData\Local\Temp\surefire3457095853696719114\surefirebooter-20220804233423778_3.jar C:\Users\chubz\AppData\Local\Temp\surefire3457095853696719114 2022-08-04T23-34-23_510-jvmRun1 surefire-20220804233423778_1tmp surefire_0-20220804233423778_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\My_docs\Workspace\JavaJob\GIT\ReqresinAPI\target\test-classes;D:\My_docs\Workspace\JavaJob\GIT\ReqresinAPI\target\classes;C:\Users\chubz\.m2\repository\org\slf4j\slf4j-simple\1.7.36\slf4j-simple-1.7.36.jar;C:\Users\chubz\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\chubz\.m2\repository\io\rest-assured\rest-assured\5.1.1\rest-assured-5.1.1.jar;C:\Users\chubz\.m2\repository\org\apache\groovy\groovy\4.0.1\groovy-4.0.1.jar;C:\Users\chubz\.m2\repository\org\apache\groovy\groovy-xml\4.0.1\groovy-xml-4.0.1.jar;C:\Users\chubz\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\chubz\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\chubz\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\chubz\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\chubz\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\chubz\.m2\repository\org\hamcrest\hamcrest\2.1\hamcrest-2.1.jar;C:\Users\chubz\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\chubz\.m2\repository\io\rest-assured\json-path\5.1.1\json-path-5.1.1.jar;C:\Users\chubz\.m2\repository\org\apache\groovy\groovy-json\4.0.1\groovy-json-4.0.1.jar;C:\Users\chubz\.m2\repository\io\rest-assured\rest-assured-common\5.1.1\rest-assured-common-5.1.1.jar;C:\Users\chubz\.m2\repository\io\rest-assured\xml-path\5.1.1\xml-path-5.1.1.jar;C:\Users\chubz\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\chubz\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\chubz\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\chubz\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.13.3\jackson-annotations-2.13.3.jar;C:\Users\chubz\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.13.3\jackson-databind-2.13.3.jar;C:\Users\chubz\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.13.3\jackson-core-2.13.3.jar;C:\Users\chubz\.m2\repository\io\qameta\allure\allure-junit4\2.18.1\allure-junit4-2.18.1.jar;C:\Users\chubz\.m2\repository\io\qameta\allure\allure-java-commons\2.18.1\allure-java-commons-2.18.1.jar;C:\Users\chubz\.m2\repository\io\qameta\allure\allure-model\2.18.1\allure-model-2.18.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\chubz\AppData\Local\Temp\surefire8480262441456765124\surefirebooter-20220804215653858_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\chubz\AppData\Local\Temp\surefire3457095853696719114\surefirebooter-20220804233423778_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.2+8-LTS-86"/>
@@ -44,7 +44,6 @@
     <property name="localRepository" value="C:\Users\chubz\.m2\repository"/>
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\chubz\AppData\Local\Temp\"/>
-    <property name="idea.version" value="2021.3.3"/>
     <property name="java.version" value="17.0.2"/>
     <property name="user.dir" value="D:\My_docs\Workspace\JavaJob\GIT\ReqresinAPI"/>
     <property name="os.arch" value="amd64"/>
@@ -58,55 +57,55 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="updateUserPatchWithEmptyFieldTest" classname="tests.cud.CUDUserTest" time="3.216">
+  <testcase name="updateUserPatchWithEmptyFieldTest" classname="tests.cud.CUDUserTest" time="3.19">
     <system-out><![CDATA[{
     "name": "morpheus",
     "job": "",
-    "updatedAt": "2022-08-04T18:56:58.285Z"
+    "updatedAt": "2022-08-04T20:34:28.214Z"
 }
 ]]></system-out>
   </testcase>
-  <testcase name="updateUserPutTest" classname="tests.cud.CUDUserTest" time="0.676">
+  <testcase name="updateUserPutTest" classname="tests.cud.CUDUserTest" time="0.24">
     <system-out><![CDATA[{
     "name": "morpheus",
     "job": "zion resident",
-    "updatedAt": "2022-08-04T18:56:59.189Z"
+    "updatedAt": "2022-08-04T20:34:28.679Z"
 }
 ]]></system-out>
   </testcase>
-  <testcase name="createEmptyUserTest" classname="tests.cud.CUDUserTest" time="0.301">
+  <testcase name="createEmptyUserTest" classname="tests.cud.CUDUserTest" time="0.286">
     <system-out><![CDATA[{
-    "id": "918",
-    "createdAt": "2022-08-04T18:56:59.494Z"
+    "id": "124",
+    "createdAt": "2022-08-04T20:34:28.976Z"
 }
 ]]></system-out>
   </testcase>
-  <testcase name="createUserTest" classname="tests.cud.CUDUserTest" time="0.575">
+  <testcase name="createUserTest" classname="tests.cud.CUDUserTest" time="0.296">
     <system-out><![CDATA[{
     "name": "morfeus",
     "job": "leader",
-    "id": "952",
-    "createdAt": "2022-08-04T18:57:00.054Z"
+    "id": "579",
+    "createdAt": "2022-08-04T20:34:29.272Z"
 }
 ]]></system-out>
   </testcase>
-  <testcase name="updateUserPatchTest" classname="tests.cud.CUDUserTest" time="0.215">
+  <testcase name="updateUserPatchTest" classname="tests.cud.CUDUserTest" time="0.216">
     <system-out><![CDATA[{
     "name": "morpheus",
     "job": "zion resident",
-    "updatedAt": "2022-08-04T18:57:00.292Z"
+    "updatedAt": "2022-08-04T20:34:29.488Z"
 }
 ]]></system-out>
   </testcase>
-  <testcase name="createUserOnlyNameTest" classname="tests.cud.CUDUserTest" time="0.218">
+  <testcase name="createUserOnlyNameTest" classname="tests.cud.CUDUserTest" time="0.237">
     <system-out><![CDATA[{
     "name": "Ololosha",
-    "id": "695",
-    "createdAt": "2022-08-04T18:57:00.505Z"
+    "id": "513",
+    "createdAt": "2022-08-04T20:34:29.722Z"
 }
 ]]></system-out>
   </testcase>
-  <testcase name="deleteUser" classname="tests.cud.CUDUserTest" time="0.209">
+  <testcase name="deleteUser" classname="tests.cud.CUDUserTest" time="0.219">
     <system-out><![CDATA[
 ]]></system-out>
   </testcase>

@@ -1,13 +1,13 @@
-name: allure-junit4-maven
+name: git-action-simple-test
 
 on:
   push:
-    branches-ignore:
-      - '!master'
+    branches:
+      - 'master'
 
 jobs:
   autotests:
-    name: Run tests and generate Allure Report
+    name: Run tests
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2

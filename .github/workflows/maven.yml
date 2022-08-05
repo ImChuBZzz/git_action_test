@@ -17,4 +17,7 @@ jobs:
           distribution: 'adopt'
       - name: Build with Maven
         run: mvn --batch-mode --update-snapshots package
-      - run: mvn clean test
+      - name: Запускаем тесты
+        run: mvn clean test
+      - name: Что то там с аллюром
+        run: mvn allure:serve
